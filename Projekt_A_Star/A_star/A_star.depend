@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1704997683 source:c:\projekt_a_star\a_star\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<algorithm>
+	<cmath>
+	<string>
+	<fstream>
+	<sstream>
+
